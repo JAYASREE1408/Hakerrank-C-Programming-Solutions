@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #define MAX_HEIGHT 41
 
-struct box
+struct box 
 {
 	/**
 	* Define three fields of type int: length, width and height
