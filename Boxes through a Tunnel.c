@@ -7,7 +7,7 @@ struct box
 	/**
 	* Define three fields of type int: length, width and height
 	*/
-    int length,width,height ;
+    int length,width,height ; 
 };
 
 typedef struct box box;
