@@ -16,7 +16,7 @@ int get_volume(box b) {
 	/*
 	* Return the volume of the box
 	*/
-    int volume;
+    int volume; 
     volume=b.length*b.width*b.height;
     return volume;
 }
