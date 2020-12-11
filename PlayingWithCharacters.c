@@ -7,7 +7,7 @@ int main()
 {
     char ch, s[20],t,sen[100];
     scanf("%c",&ch);
-    scanf("%s",s);
+    scanf("%s",s); 
     scanf("%c",&t);
     scanf("%[^\n]", sen);
     printf("%c\n",ch);
