@@ -14,4 +14,4 @@ int main()
     printf("%s\n",s);
     printf("%s",sen);
     return 0;
-}
+} 
