@@ -4,7 +4,7 @@
 #include <stdlib.h> 
  
 int main() 
-{
+{ 
     char ch, s[20],t,sen[100];
     scanf("%c",&ch);
     scanf("%s",s); 
