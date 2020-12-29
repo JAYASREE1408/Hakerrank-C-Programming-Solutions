@@ -6,7 +6,7 @@
 #define MIN_ELEMENT 1
 #define MAX_ELEMENT 1000000
 int  sum (int count,...) {
-    int sum=0;
+    int sum=0; 
     va_list values;
     va_start(values,count);
     for(int i=0;i<count;i++){
