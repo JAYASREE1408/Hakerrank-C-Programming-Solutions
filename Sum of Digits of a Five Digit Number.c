@@ -19,3 +19,5 @@ while(temp > 0)
 printf("%d\n",sum);
 return 0;
 }
+
+
